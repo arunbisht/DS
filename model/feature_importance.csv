@@ -1,0 +1,53 @@
+Feature,Importance
+cat__Contract_Month-to-month,0.5528957706009242
+num__tenure,0.10887581613464319
+cat__InternetService_Fiber optic,0.09207740753032155
+num__MonthlyCharges,0.05184240493421795
+num__TotalCharges,0.032439358530019974
+num__AvgMonthlySpend,0.0266810029368919
+cat__TechSupport_No,0.023809324721876038
+cat__OnlineSecurity_No,0.020389537319137317
+cat__PaymentMethod_Electronic check,0.019728469085351145
+cat__StreamingMovies_No internet service,0.014973733906003699
+cat__Contract_One year,0.012725526247563936
+num__TotalServices,0.005490535928587788
+cat__PaperlessBilling_No,0.0052902840671095646
+cat__Partner_No,0.004743467467887321
+cat__PaymentMethod_Mailed check,0.0046316134362087355
+cat__OnlineBackup_No,0.004506886418779358
+cat__Dependents_No,0.003766871939949985
+cat__PaperlessBilling_Yes,0.003240786050890703
+cat__OnlineSecurity_Yes,0.002526510339611769
+cat__StreamingMovies_No,0.0023616910037770568
+cat__TechSupport_Yes,0.001813547679652372
+cat__PaymentMethod_Bank transfer (automatic),0.0016577268041991936
+num__SeniorCitizen,0.0013743228889661907
+cat__gender_Female,0.000900989535258991
+cat__PaymentMethod_Credit card (automatic),0.0007194269886298451
+cat__OnlineBackup_Yes,0.0005369875035402579
+cat__InternetService_No,0.0
+cat__InternetService_DSL,0.0
+cat__gender_Male,0.0
+cat__Partner_Yes,0.0
+cat__MultipleLines_Yes,0.0
+cat__MultipleLines_No phone service,0.0
+cat__PhoneService_Yes,0.0
+cat__MultipleLines_No,0.0
+cat__PhoneService_No,0.0
+cat__Dependents_Yes,0.0
+cat__StreamingTV_Yes,0.0
+cat__StreamingTV_No internet service,0.0
+cat__StreamingTV_No,0.0
+cat__TechSupport_No internet service,0.0
+cat__DeviceProtection_Yes,0.0
+cat__OnlineBackup_No internet service,0.0
+cat__DeviceProtection_No,0.0
+cat__DeviceProtection_No internet service,0.0
+cat__OnlineSecurity_No internet service,0.0
+cat__StreamingMovies_Yes,0.0
+cat__Contract_Two year,0.0
+cat__TenureGroup_0-6,0.0
+cat__TenureGroup_13-24,0.0
+cat__TenureGroup_25-48,0.0
+cat__TenureGroup_49-72,0.0
+cat__TenureGroup_7-12,0.0
